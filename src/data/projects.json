@@ -1,0 +1,46 @@
+[
+    {
+      "title": "YouTube, Google & Netflix Clone",
+      "imageSrc": "projects/project1.png",
+      "description": "Developed a concise HTML and CSS project serving as an educational YouTube, Google, and Netflix clone.",
+      "skills": ["HTML5", "CSS3"],
+      "source": "https://github.com/SahanLakmalDev/Youtube-Clone.git"
+    },
+    {
+      "title": "Note Taking App",
+      "imageSrc": "projects/project2.png",
+      "description": "Created a user-friendly note-taking app with React frontend,Express.js backend, and TypeScript for a type-safe codebase.",
+      "skills": ["React","TypeScript", "Express", "Node", "Prisma", "PostgreSQL"],
+      "source": "https://github.com/SahanLakmalDev/Notes-Taking-App.git"
+    },
+    {
+      "title": "Connect 4 Game",
+      "imageSrc": "projects/project3.png",
+      "description": "The classic game Connect 4 in Java, featuring a robust AI Full Stack Development",
+      "skills": ["Java", "javaFX", "SceneBuilder", "CSS"],
+      "source": "https://github.com/SahanLakmalDev/Connect-4-Game.git"
+    },
+    {
+      "title": "Mern Auth",
+      "imageSrc": "projects/project4.png",
+      "description": "Developed a MERN Authentication App, demonstrating the seamless integration of MongoDB, Express.js, React.js, and Node.js.",
+      "skills": ["React", "Tailwind CSS", "React Router", "Redux Toolkit", "MongoDB", "Node", "Express", "JWT", "Firebase"],
+      "source": "https://github.com/SahanLakmalDev/Auth-App.git"
+    },
+    {
+      "title": "Smart POS",
+      "imageSrc": "projects/project5.png",
+      "description": "A simple POS system developed base on transactions, Joins and databases.",
+      "skills": ["Java", "JavaFX", "PostgreSQL", "JasperReports"],
+      "source": "https://github.com/SahanLakmalDev/Smart-Pos.git"
+    },
+    {
+      "title": "Chat-Room Application",
+      "imageSrc": "projects/project6.png",
+      "description": "A simple group chat application developed base on web sockets.",
+      "skills": ["Java", "EcmaScript", "ParcelJS", "Bootstrap", "Spring-Framework", "Hibernate Validator", "Jackson"],
+      "source": "https://github.com/SahanLakmalDev/Chat-Room-App.git"
+    }
+
+  ]
+  
