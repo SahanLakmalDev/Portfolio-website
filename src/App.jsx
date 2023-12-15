@@ -1,13 +1,14 @@
-
-import './App.css'
+import styles from './App.module.css';
+import { Navbar } from './components/Navbar/Navbar';
+import { Hero } from './components/hero/Hero';
 
 function App() {
-
   return (
-    <>
-     <h1>Hello</h1>
-    </>
-  )
+    <div className={styles.App}>
+      <Navbar/>
+      <Hero/>
+    </div>
+  );
 }
 
-export default App
+export default App;
