@@ -47,6 +47,13 @@
       "description": "A simple spring boot application to handle customers.",
       "skills": ["Spring Boot", "Angular", "Bootstrap", "Spring-JPA", "Hibernate", "Layered-architecture"],
       "source": "https://github.com/SahanLakmalDev/Spring-boot-Customer-Registration.git"
+    },
+    {
+      "title": "Mern Stack To-do App",
+      "imageSrc": "projects/project8.png",
+      "description": "A simple to-do list application built using the MERN stack. It allows users to create, view, update, and delete tasks.",
+      "skills": ["Node.js", "React.js", "MongoDB", "Express", "Tailwind CSS"],
+      "source": "https://github.com/SahanLakmalDev/To-do-App-Men-Stack.git"
     }
 
   ]
